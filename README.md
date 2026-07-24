@@ -1,3 +1,7 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=veevynn&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veevynn&format=compact&theme=midnight-purple)
+Vivian's Github account.
+
+Main Accounts:
+[Tumblr](https://www.tumblr.com/vivian-b1tch)
+[Twitter](https://x.com/vivian_b1tch)
+
+[My strawpage](https://vivibitch.straw.page/)
